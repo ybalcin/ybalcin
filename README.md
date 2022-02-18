@@ -3,9 +3,9 @@
 
 
 <h3 align="left">About me:</h3>
-<p align="left">💻 I'm an Sofware Engineer</p>
+<p align="left">💻 I'm a Sofware Engineer</p>
 
-<p align="left">🔭 Currently working with Go 🐹</>
+<p align="left">🔭 Currently working with Go <img src="https://user-images.githubusercontent.com/47143192/154670598-a6c28159-bcb4-4af4-a903-e128b806da63.png" width="60" height="60"/> </>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
